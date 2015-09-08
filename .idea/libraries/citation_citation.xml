@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="citation.citation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/citation/build/libs/citation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
